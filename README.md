@@ -1,1 +1,1 @@
-# Practice-Repository
+# Python_Practice Assignments
